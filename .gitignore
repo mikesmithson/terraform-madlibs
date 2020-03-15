@@ -1,0 +1,4 @@
+.terraform
+madlibs
+*.zip
+*.tfstate*
